@@ -1,0 +1,19 @@
+{
+  "name": "frontend-dictionary",
+  "version": "0.0.1",
+  "description": "frontend dictionary for studying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipadorusa/frontend-dictionary.git"
+  },
+  "author": "ipadorusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipadorusa/frontend-dictionary/issues"
+  },
+  "homepage": "https://github.com/ipadorusa/frontend-dictionary#readme"
+}
