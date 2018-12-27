@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Test Site Blog</title>
+    <updated>2018-12-27T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Test Site news and events.</subtitle>
+    <logo>https://your-docusaurus-test-site.com/img/docusaurus.svg</logo>
+    <rights>Copyright © 2018 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[FRONTEND 용어 공부하기]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/2018/12/27/blog-frontend-dic.html</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2018/12/27/blog-frontend-dic.html">
+        </link>
+        <updated>2018-12-27T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>개념을 알아 가자
+Webpack? Parcel? Gulp? Grunt ? 이런게 몬가요</p>
+]]></summary>
+        <author>
+            <name>Ipadorusa</name>
+            <uri>http://ipadorusa.com</uri>
+        </author>
+    </entry>
+</feed>
